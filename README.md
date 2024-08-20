@@ -1,1 +1,2 @@
-# DreamNode
+# UsingStoryAsTool
+![](UsingStoryAsTool.png)
